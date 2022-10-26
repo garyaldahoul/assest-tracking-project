@@ -1,0 +1,15 @@
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/bin/Debug/net6.0/AssestTrackingProject
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/bin/Debug/net6.0/AssestTrackingProject.deps.json
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/bin/Debug/net6.0/AssestTrackingProject.runtimeconfig.json
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/bin/Debug/net6.0/AssestTrackingProject.dll
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/bin/Debug/net6.0/AssestTrackingProject.pdb
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/AssestTrackingProject.csproj.AssemblyReference.cache
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/AssestTrackingProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/AssestTrackingProject.AssemblyInfoInputs.cache
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/AssestTrackingProject.AssemblyInfo.cs
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/AssestTrackingProject.csproj.CoreCompileInputs.cache
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/AssestTrackingProject.dll
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/refint/AssestTrackingProject.dll
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/AssestTrackingProject.pdb
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/AssestTrackingProject.genruntimeconfig.cache
+/Users/User/Projects/AssestTrackingProject/AssestTrackingProject/obj/Debug/net6.0/ref/AssestTrackingProject.dll
